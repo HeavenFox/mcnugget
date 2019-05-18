@@ -1,33 +1,64 @@
-.App {
+#root {
+  max-width: 800px;
+}
+
+.pricing-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+}
+
+.count-slider {
+  width: 100%;
+  height: 20px;
+  background: #ffc72c;
+}
+
+.count-slider::-webkit-slider-thumb {
+  background: #da291c;
+
+  height: 30px;
+
+  width: 30px;
+
+  border-radius: 30px;
+}
+
+.pricing-list li {
+  background-color: #ffc72c;
+  margin: 4px;
+  flex: 0 0 132px;
+}
+
+.pricing-list .count {
+  color: white;
+  background-color: #da291c;
+  padding: 4px;
+  font-weight: 600;
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.pricing-list .price {
+  padding: 4px;
+  font-size: 2em;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.pricing-list .price input {
+  font-size: 1em;
+  width: 90px;
+  background: none;
+  border: none;
+  border-bottom: 1px solid black;
 }
 
-.App-link {
-  color: #61dafb;
+.pricing-list .unit-price {
+  font-size: 0.8em;
+  padding: 4px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+em {
+  font-weight: 600;
+  text-decoration: underline;
+  font-style: normal;
 }
