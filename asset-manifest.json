@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "mcnugget/static/css/main.a25a3766.chunk.css",
+    "main.js": "mcnugget/static/js/main.7a4e0182.chunk.js",
+    "main.js.map": "mcnugget/static/js/main.7a4e0182.chunk.js.map",
+    "runtime~main.js": "mcnugget/static/js/runtime~main.05fb8fb4.js",
+    "runtime~main.js.map": "mcnugget/static/js/runtime~main.05fb8fb4.js.map",
+    "static/js/2.8382aef0.chunk.js": "mcnugget/static/js/2.8382aef0.chunk.js",
+    "static/js/2.8382aef0.chunk.js.map": "mcnugget/static/js/2.8382aef0.chunk.js.map",
+    "index.html": "mcnugget/index.html",
+    "precache-manifest.81511fcf145e2b1b31d83847d9c77d6b.js": "mcnugget/precache-manifest.81511fcf145e2b1b31d83847d9c77d6b.js",
+    "service-worker.js": "mcnugget/service-worker.js",
+    "static/css/main.a25a3766.chunk.css.map": "mcnugget/static/css/main.a25a3766.chunk.css.map"
+  }
+}
