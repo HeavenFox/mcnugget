@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mcnugget/precache-manifest.dbcad7027c3bffdf62bd9ddcf41a83b5.js"
+  "/mcnugget/precache-manifest.0159c48022f8204bb337b90dd7f0206a.js"
 );
 
 self.addEventListener('message', (event) => {

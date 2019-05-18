@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1e133321fca93c5a7ca993c666ef5d1",
+    "revision": "57b6af9fbddf039fa4c5e634cb06ee60",
     "url": "/mcnugget/index.html"
   },
   {
-    "revision": "4c9f2c482c6643dd0d22",
-    "url": "/mcnugget/static/css/main.a25a3766.chunk.css"
+    "revision": "e5b7f78145aad7e56baa",
+    "url": "/mcnugget/static/css/main.a7f617bb.chunk.css"
   },
   {
     "revision": "bd1d4171818b17c0e43c",
     "url": "/mcnugget/static/js/2.8382aef0.chunk.js"
   },
   {
-    "revision": "4c9f2c482c6643dd0d22",
+    "revision": "e5b7f78145aad7e56baa",
     "url": "/mcnugget/static/js/main.f4cbae4d.chunk.js"
   },
   {

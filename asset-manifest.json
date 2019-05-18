@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mcnugget/static/css/main.a25a3766.chunk.css",
+    "main.css": "/mcnugget/static/css/main.a7f617bb.chunk.css",
     "main.js": "/mcnugget/static/js/main.f4cbae4d.chunk.js",
     "main.js.map": "/mcnugget/static/js/main.f4cbae4d.chunk.js.map",
     "runtime~main.js": "/mcnugget/static/js/runtime~main.1c227ac8.js",
@@ -8,8 +8,8 @@
     "static/js/2.8382aef0.chunk.js": "/mcnugget/static/js/2.8382aef0.chunk.js",
     "static/js/2.8382aef0.chunk.js.map": "/mcnugget/static/js/2.8382aef0.chunk.js.map",
     "index.html": "/mcnugget/index.html",
-    "precache-manifest.dbcad7027c3bffdf62bd9ddcf41a83b5.js": "/mcnugget/precache-manifest.dbcad7027c3bffdf62bd9ddcf41a83b5.js",
+    "precache-manifest.0159c48022f8204bb337b90dd7f0206a.js": "/mcnugget/precache-manifest.0159c48022f8204bb337b90dd7f0206a.js",
     "service-worker.js": "/mcnugget/service-worker.js",
-    "static/css/main.a25a3766.chunk.css.map": "/mcnugget/static/css/main.a25a3766.chunk.css.map"
+    "static/css/main.a7f617bb.chunk.css.map": "/mcnugget/static/css/main.a7f617bb.chunk.css.map"
   }
 }
