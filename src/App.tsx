@@ -74,7 +74,7 @@ class Calculator extends PureComponent<CalculatorProps, CalculatorState> {
         <ul>
           {counts.map(([count, numToBuy]) => (
             <li key={count}>
-              {count} nuggests x {numToBuy}
+              {count} nuggets x {numToBuy}
             </li>
           ))}
         </ul>
